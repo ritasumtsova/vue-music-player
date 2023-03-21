@@ -1,0 +1,3 @@
+- run yarn install to install packages
+- vite to run the project
+- enjoy ;)
